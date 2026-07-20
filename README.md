@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I am Enzo, a **Mathematical Engineer & Master of Data Science student** at Universidad de Chile.
 - 🌱 My main interests are **Mathematical modeling** & **the theoretical foundations of Machine Learning** to build and optimize real-world AI solutions
-- 🌏 I like learning languages and currently I am learning Chinese! **学无止境**
+- 🌏 I like learning languages and currently I am learning Chinese **学无止境**
 <br>
 <p align="center">
   <a href="CV_EN.pdf">
